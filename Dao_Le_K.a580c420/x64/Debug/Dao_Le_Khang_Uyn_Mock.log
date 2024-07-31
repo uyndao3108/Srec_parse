@@ -1,0 +1,9 @@
+﻿  main.c
+  mock.c
+  Generating Code...
+E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\main.c(61,24): warning C4047: 'function': 'uint32_t *' differs in levels of indirection from 'uint32_t **'
+E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\main.c(61,24): warning C4024: 'get_main_type': different types for formal and actual parameter 2
+E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\main.c(62,44): warning C4047: 'function': 'uint32_t' differs in levels of indirection from 'uint32_t *'
+E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\main.c(62,44): warning C4024: 'Check_Data_Record_and_Terminate': different types for formal and actual parameter 2
+E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\mock.c(144,28): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Dao_Le_Khang_Uyn_Mock.vcxproj -> E:\Workspace\c\Dao_Le_Khang_Uyn_Mock\x64\Debug\Dao_Le_Khang_Uyn_Mock.exe
